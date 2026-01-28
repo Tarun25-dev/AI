@@ -1,0 +1,81 @@
+Prompt Engineering Exercise:
+
+Open ChatGPT and type this:
+
+"You are an AI tutor.
+Teach me LLMs from zero in simple English.
+Ask me small questions and correct me if I’m wrong."
+
+I do that and the output shown in below
+
+Lesson 1: What is AI? (Very basics)
+
+First, let’s start before LLMs.
+
+🤖 What is Artificial Intelligence (AI)?
+
+AI means making a computer behave like a human in a small way.
+
+Examples:
+
+Google Maps suggesting the fastest route
+
+YouTube recommending videos
+
+ChatGPT answering your questions
+
+The computer is not thinking like a human, but it is following patterns from data.
+
+Lesson 2: What is Machine Learning (ML)?
+🧠 Machine Learning
+
+Machine Learning is a part of AI.
+
+Instead of:
+
+“If A happens, do B”
+
+We say:
+
+“Here is a lot of data. Learn patterns from it.”
+
+Example:
+
+Show the computer 1000 photos of cats
+
+Tell it: “These are cats”
+
+Later it can guess if a new photo is a cat
+
+So:
+
+AI → big idea
+
+ML → learning from data
+
+Lesson 3: What is a Model?
+
+A model is like a brain file inside the computer.
+
+It learns from data
+
+It stores patterns
+
+It gives answers
+
+Example:
+
+Calculator → fixed rules
+
+ML model → learns rules by itself
+
+🧪 Small Question (Answer in one line)
+
+Q1:
+What does Machine Learning mainly do?
+
+A) Uses fixed rules written by humans
+B) Learns patterns from data
+C) Works only on the internet
+
+Answer: B ML learns patterns from data.

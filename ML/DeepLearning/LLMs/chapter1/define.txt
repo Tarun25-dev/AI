@@ -1,0 +1,20 @@
+WHAT IS LLM ?
+    LLM refers to Large Language Model
+    An LLM is an AI that can read, understand, generate human like text.
+    Simply we can say as LLMs predicts the next word based on context.
+
+Example:
+    I am Learning _______
+    LLM predicts AI/Python/LLMs
+
+If we Interact with LLMs in a correct way then whuch gives accurate output 
+for this we need to learn concept called Prompting
+
+Prompting: Talking to LLMs properly
+
+Example:
+
+Explain LLMs? BAD Prompt
+Explain LLM in simple words for a final-year engineering student with examples? Good Prompt
+
+Better Prompt = Better output

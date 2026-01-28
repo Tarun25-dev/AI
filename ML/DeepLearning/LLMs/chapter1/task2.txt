@@ -1,0 +1,31 @@
+Prompt Engineering Exercise:
+
+Open ChatGPT and type this:
+
+"Explain what an LLM is in:
+1) 1 sentence
+2) 5 bullet points
+3) With a real-life example"
+
+output from ChatGPT
+
+1️⃣ In 1 sentence
+
+An LLM (Large Language Model) is an AI system trained on massive amounts of text to understand, generate, and respond to human language naturally.
+
+2️⃣ In 5 bullet points
+
+LLM stands for Large Language Model.
+
+It is trained on huge text data like books, articles, and websites.
+
+It understands context, grammar, and meaning in language.
+
+It can answer questions, write content, translate, and summarize text.
+
+Examples include ChatGPT, Gemini, and Claude.
+
+3️⃣ With a real-life example
+
+Think of an LLM like a very smart study partner 📚—
+you ask a question in normal language, and it replies with clear explanations, examples, or even code, just like a knowledgeable friend who has read millions of books and remembers them instantly.

@@ -1,0 +1,47 @@
+⬇️
+
+🖥️ Frontend (Website / App UI)
+
+HTML / CSS / JavaScript page
+
+Input box + submit button
+
+Collects user text
+
+⬇️
+
+⚙️ Backend (Python / Java)
+
+Receives user text
+
+Prepares a prompt
+
+Sends request to LLM API
+
+⬇️
+
+🤖 LLM (ChatGPT / GPT / other model)
+
+Understands the prompt
+
+Generates an answer
+
+⬇️
+
+⚙️ Backend
+
+Receives LLM response
+
+Formats it (optional)
+
+⬇️
+
+🖥️ Frontend
+
+Displays the answer to the user
+
+
+
+In simple way to understand
+
+" Frontend takes input → Backend talks to LLM → Frontend shows output "
