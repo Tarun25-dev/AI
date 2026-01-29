@@ -1,0 +1,14 @@
+Context - In LLMs, Context is a previous conversation text
+
+Example:
+
+User: Explain LLM
+User: In simple words
+
+The LLM remembers:
+
+Topic = LLM
+Style = simple
+
+So the answer changes.
+More context = better answers

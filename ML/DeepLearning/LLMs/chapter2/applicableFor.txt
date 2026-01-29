@@ -1,0 +1,16 @@
+What LLMs are GOOD at
+
+➡ Explaining concepts
+➡ Writing text
+➡ Summarizing content
+➡ Generating code
+➡ Answering common questions
+
+What LLMs are not GOOD at
+
+➡ Real-time facts
+➡ Deep reasoning without guidence
+➡ Making decisions alone
+
+Overview of this chapter :
+ LLMs generate answers word by word using context and probability, not true understanding.

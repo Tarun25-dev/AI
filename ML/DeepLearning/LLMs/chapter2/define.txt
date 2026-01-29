@@ -1,0 +1,35 @@
+Understand how LLMs generate answers and why they sometimes make mistakes
+
+What an LLMs does?
+An LLMs does't know answers,it generates answers
+
+It does not:
+1. Think like humans
+2. Understand meanings like humans
+3. Know what is True/False
+
+" It Only Predicts Text based on patterns. "
+
+Word by Word Generation:
+LLMs don't write full sentence at once.
+They work like this:
+
+I → am → learning → LLMs ( Each word is predicted one at a time.)
+
+Example:
+User: What is AI?
+LLM:
+- predicts "AI"
+- then "is"
+- then "the"
+- then "ability"
+- and so on...
+
+Why LLMs sometimes give wrong answers?
+
+Because:
+
+They don’t check facts
+They don’t search the internet (unless connected)
+They guess based on probability
+
