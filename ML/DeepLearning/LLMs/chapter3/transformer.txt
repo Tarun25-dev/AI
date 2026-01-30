@@ -1,0 +1,23 @@
+Transformer - A deep learning model that uses attention for Understand relationships between words.
+In simple words, Reads all words together,Does not read one-by-one, Uses attention to connect words.
+This made LLMs powerful.
+
+Why Transformers changed everything
+
+Because Transformers:
+
+Handle long text
+Remember context better
+Work fast (parallel processing)
+Scale to huge data
+
+That’s why:
+
+GPT
+BERT
+ChatGPT
+all use Transformers.
+
+Overview of this chapter:
+
+" Transformers use attention to focus on important words and understand context better, making LLMs powerful."

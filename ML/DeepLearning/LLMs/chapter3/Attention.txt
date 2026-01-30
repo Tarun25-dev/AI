@@ -1,0 +1,16 @@
+Attention: Attention tells the model which words matter more right now.
+(or)The model focuses on the important words in a sentence.
+Example: I went to the bank to withdraw money.
+bank,withdraw,money are the main words in this prompt so that tells to the model.
+
+Why attention matters?
+Because,Earlier models read text one word at a time and then forgot.
+Example: 
+prompt 1: The dog chased the cat because it was fast.
+prompt 2: Who was fast? Dog or cat?
+Old models:
+
+Got confused
+Forgot earlier words
+
+So, thats why we need attention concept.
