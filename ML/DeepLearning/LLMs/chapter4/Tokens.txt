@@ -1,0 +1,30 @@
+Tokens: A token is a small piece of text.
+>> It can be a full word, part of a word, A symbol or punctuation
+>> Punctuation is a set of symbols used in writing to make sentences clear, readable, and meaningful.
+
+Punctuation Example:
+>> Period ( . ) → Ends a statement
+   I am learning English.
+>> Comma ( , ) → Short pause, separates ideas
+   I like English, math, and science.
+
+Tokens Example: "I am learning AI"
+Possible Tokens are I, am, learning, AI
+
+Note: LLMs don’t read sentences, they read tokens.
+
+Why Tokens needed?
+Beacuse, Tokens are needed because computers cannot understand sentences — they need small, manageable pieces of text.
+
+Tokenization:
+>> Tokenization is the process of breaking text into small pieces called tokens.
+
+Why Tokenization matters?
+Beacuse,
+>> LLMs have token limits, cost is based on tokens,long text = more tokens
+
+Each token is assigned an ID number from a vocabulary.
+
+"I"    → 101
+"love" → 205
+"AI"   → 876

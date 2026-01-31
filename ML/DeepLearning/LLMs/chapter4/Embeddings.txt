@@ -1,0 +1,25 @@
+Embeddings:
+>> An Embeddings is a numerical representation of a words meaning.
+Example:
+King 👑
+Queen 👑
+Prince 👑
+
+They get similar embeddings.
+>> Embeddings are like GPS locations for words.
+
+Why embeddings?
+>> Understand similarity
+>> Match questions with answers
+>> Search documents
+>> Answer from PDFs
+
+this is how:
+>> Chatbots work
+>> Resume analyzers work
+>> PDF Q&A systems work
+
+Overview:
+
+Text → Tokens → Token IDs → Embeddings → LLM
+LLMs break text into tokens and convert them into embeddings (numbers) so they can understand and generate language.
