@@ -1,0 +1,47 @@
+Training:
+>> Training is teaching the model using huge amount of data.
+During training:
+>> The model reads billions of sentenses.
+>> makes mistakes
+>> Corrects itself
+>> Adjusts its internal numbers (weights)
+>> A weight is just a number that shows importance.
+   Bigger number = more important
+   Smaller number = less important
+
+Computers cannot understand words.
+So first, the sentence is converted into numbers.
+
+Example: “I love this movie”
+>> it becomes something like,
+   I     → 12
+   love  → 245
+   this  → 78
+   movie → 901
+>> These numbers come from a vocabulary or embedding system
+>> Each word gets a numerical representation
+   >> Each word is turned into a vector (list of numbers).
+>> something like this,
+
+   love → [0.8, 0.1, -0.2, 0.6]
+   hate → [-0.7, 0.2, 0.1, -0.5]
+>> These numbers represent meaning, not letters.
+
+>> Weights already exist inside the model
+>> Sentence flows through weights
+   output = (word numbers × weights)
+Example:
+Word value = 5
+Weight     = 0.9
+
+Result = 5 × 0.9 = 4.5
+
+>> Model checks if the answer is correct
+   >> Is the sentence positive or negative?
+   Example:
+   >> “I love this movie”
+   Model predicts: Positive (0.6 confidence)
+   Actual label: Positive
+   Good → small change
+   Wrong → weights are adjusted
+

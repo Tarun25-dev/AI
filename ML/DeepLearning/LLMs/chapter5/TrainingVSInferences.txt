@@ -1,0 +1,13 @@
+Difference Between Inference and Training:
+
+| Training           | Inference           |
+| ------------------ | ------------------- |
+| Teaching the model | Using the model     |
+| Very expensive     | Still costly        |
+| Happens rarely     | Happens every query |
+| Uses huge data     | Uses your prompt    |
+
+Overview:
+ >> Training teaches an LLM using huge data,
+    while inference is using the trained model to generate answers, 
+    and both require heavy computing power.

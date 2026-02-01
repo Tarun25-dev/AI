@@ -1,0 +1,13 @@
+Inference:
+>> Inference is using a trained model to get answers.
+
+Why inference also costs money?
+>> Beacuse, 
+>> Even using the model costs money because:
+   >> Each request uses GPUs
+   >> Tokens need computation
+   >> Long prompts = more cost
+   >> Many users at the same time
+That’s why,
+   >> APIs charge per token
+   >> limits exists
