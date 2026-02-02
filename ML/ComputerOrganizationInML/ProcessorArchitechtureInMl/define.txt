@@ -1,0 +1,56 @@
+1. CPU (Central Processing Unit): 
+>> CPU is the primary processing unit of a computer that executes program instructions, performs calculations, and controls all system operations.
+
+Core:
+>> A core is an individual processing unit of a CPU/GPU/TPU that can independently executes instructions.
+>> logical way of Example: Think of cores as a workers
+>> 1 core  = one worker doing one task at a time.
+>> 4 cores = four workers are doing tasks simultaneously.
+>> More cores = More work done in parallel
+
+CPU works:
+>> 1. Few cores (1-16 usually)
+>> 2. very smart cores
+>> 3. Handles tasks step by step
+
+CPU Roles in Data science & ML:
+>> Data cleaning (Pandas, NumPy)
+>> Feature engineering
+>> Small ML models (Linear Regression, Decision Trees)
+>> Running Python code, loops, logic
+
+2. GPU (Graphical Processing Unit):
+>> GPU is a specialized processor designed to perform a large number of computations simultaneously making it ideal for parallel processing tasks.
+
+GPU works:
+>> 1. Thousands of cores
+>> 2. Does many calculations at the same time.
+>> 3. Perfect for matrix operations.
+
+GPU Roles in Deep Learning & ML:
+>> Training Neural Networks
+>> CNNs (images)
+>> RNNs / Transformers
+>> TensorFlow, PyTorch models
+
+3. TPU (Tensor Processing Unit):
+>> TPU is a custom build hardware accelerator developed by google, specially optimized for Tensor operations in ML and Deep Learning workloads.
+
+Tensor:
+>> A tensor is just data in n-dimensions:
+
+Name	Dimensions	Example
+Scalar	0D	5
+Vector	1D	[1, 2, 3]
+Matrix	2D	[[1,2],[3,4]]
+Tensor	3D+	Image, video, batches
+
+TPU works:
+>> Optimized for tensors (multi-dimensional arrays)
+>> Extremely fast for deep learning
+>> Works best with TensorFlow
+
+Roles in Data science and ML:
+>> Large-scale deep learning
+>> Research & production models
+>> Google Colab TPUs

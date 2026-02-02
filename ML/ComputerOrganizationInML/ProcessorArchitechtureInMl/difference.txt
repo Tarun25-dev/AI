@@ -1,0 +1,15 @@
+Difference between CPU vs GPU vs TPU:
+
+| Feature  | CPU              | GPU                | TPU              |
+| -------- | ---------------- | ------------------ | ---------------- |
+| Purpose  | General tasks    | Parallel computing | ML-only          |
+| Cores    | Few, powerful    | Thousands          | Highly optimized |
+| Best for | Data prep, logic | Deep learning      | Massive DL       |
+| Speed    | Slow             | Very fast          | Extremely fast   |
+| Used by  | Everyone         | ML Engineers       | Researchers      |
+
+
+Overview:
+CPU handles logic,
+GPU accelerates parallel computations,
+and TPU is optimized for tensor operations in deep learning.
