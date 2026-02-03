@@ -1,0 +1,44 @@
+Prompt Tricks:
+>> Prompt tricks are small adjustments in your prompt that make LLMs give better, accurate, and tailored responses.
+
+1. Add content: Give the model extra information about your scenario.
+>> Format : Explain [topic] using examples related to [context].
+>> Example: Explain embeddings using examples from college projects.
+>> LLM output → more relevant, Makes learning practical.
+
+2. Specify Length: Tell the LLM how long the answer should be.
+>> Format : Explain [topic] in [number] sentences / words / bullet points.
+>> Example: Explain tokenization in 3 sentences.
+>> Avoids long-winded explanations, Useful for notes or slides.
+
+3. Specify Style / Tone: Tell the model how to speak
+>> Format : Explain [topic] in a [style] tone.
+>> Example: Explain embeddings in a friendly tone like you are talking to a friend.
+            Explain LLMs in a professional tone for a report.
+>> Style → casual, professional, funny, simple, Useful for blogs, emails, or presentations
+
+4. Ask for Step-by-Step: Make the model reason or teach sequentially.
+>> Format : Explain [topic] step by step.
+>> Example: Explain how an LLM predicts the next word, step by step.
+>> Makes output structured and clear, Easier to follow for beginners.
+
+5. Asks for bullet points or Lists: Structure content for easy reading.
+>> Format : Give [number] main points about [topic].
+>> Example: Give 5 main points about attention in LLMs.
+>> Helps in note-taking or documentation
+
+6. Ask the LLM to Act as Someone: Assign a role or persona.
+>> Format : You are a [role]. Explain [topic] to [audience].
+>> Example: You are a senior AI engineer. Explain embeddings to a beginner student.
+>> LLM adapts tone and complexity automatically
+
+7. Combine Tricks: You can mix multiple tricks for maximum control.
+>> Example: You are an AI tutor. Explain embeddings step by step in 3 bullet points using examples from college projects in a friendly tone.
+>> Output → structured, relevant, easy-to-understand, Perfect for notes, learning, or mini-projects
+
+Overview of Prompt tricks: 
+>> Prompt tricks are small adjustments that make LLMs give more accurate,
+   structured, and relevant responses.
+
+Overview of this chapter:
+Prompt engineering is the art of asking LLMs the right questions to get clear, accurate, and useful answers.

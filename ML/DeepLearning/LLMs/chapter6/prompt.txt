@@ -1,0 +1,19 @@
+Prompt Engineering: 
+>> Prompt Engineering is all about understand how to talk with LLMS effectively so you get better and accurate reaults.
+
+Prompt:
+>> A prompt is simply a instruction or question you give to an LLM.
+
+Example:
+>> Bad prompt : Explain AI
+>> Good prompt: Explain AI in simple words for a final-year engineering student with examples.
+
+Same question but different outputs
+Better prompt = Better answers
+
+Why prompt engineering matters?
+Beacuse,
+    >> LLMs only follow patterns in your text
+    >> Ambiguous prompts → unclear answers
+    >> Clear prompts → precise answers
+    

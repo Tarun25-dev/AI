@@ -1,0 +1,21 @@
+Prompt patterns:
+>> Prompt patterns are reusable ways of asking questions that guide the LLM to give better, structured, and useful responses.
+
+1. Explain simply prompt
+Ex: Explain LLMs in 5 simple bullet points.
+
+2. Step-by-Step reasoning Prompt
+Ex: Explain how LLM predicts the next word, step by step.
+
+3. Role based prompts
+Ex: You are an AI tutor. Teach me LLMs like I am a beginner.
+
+4. Example driven prompts
+Ex: Explain embeddings with a real-life example.
+
+5. List / Bullet Point Prompts
+Ex: Give 5 main points about prompt engineering.
+
+6. Style & Length Prompts
+Ex: Explain embeddings in a friendly tone using 3 sentences only.
+
