@@ -1,0 +1,47 @@
+Understand How LLMs works internally?
+
+understand the below pipeline:
+
+Text → Tokens → Embeddings → Neural Network → Probabilities → Next Token → Text
+>> This is every LLM in existence (ChatGPT, Gemini, Claude, etc.).
+
+What really happens means,
+Lets say you type a prompt like this:
+>> I am learning
+
+1. Tokenization: Text is broken into pieces(tokens)
+Ex: "I" | "am" | "learning"
+Beacuse computers cannot understand full sentences directly.
+
+2. Embeddings: Each tokens is converted into numbers (vectors)
+Ex: "I" → [0.21, -0.5, 0.88, ...]
+>> This is not random, similar words = similar numbers
+
+3. Neural Networks (Transformer): This is the brain of LLMs
+>> Looks at all previous tokens, Understands relationship, Decides what should comes next.
+
+4. Probability and Prediction: The model doesnt know answers, it does this instead
+Ex:
+AI → 60%
+Python → 25%
+Cooking → 1%
+>> Picks the most suitable next token.
+>> This repeats again and again until a full response is formed.
+
+Note:
+LLMs do not,
+>> Think
+>> Understand meanings like humans
+>> stores facts like a database
+
+LLMs does,
+>> Learns patterns
+>> Predict next tokens
+>> mimic understanding extremely well
+
+>>> Tiny mental model:
+>> LLMs are very advanced auto-complete machines trained on massive text.
+
+
+Overview:
+An LLM converts text to numbers, processes them using a neural network, and predicts the next word repeatedly to generate responses.
