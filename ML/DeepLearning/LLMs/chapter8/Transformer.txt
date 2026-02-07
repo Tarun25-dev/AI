@@ -1,0 +1,9 @@
+Transformer:
+>> Transformers read everything at once.
+>> They dont go word by word, they look at the entire sentence together.
+
+>> This is why LLMs are :
+   >> They are fast
+   >> They scale to huge text 
+   >> They understand long context
+   

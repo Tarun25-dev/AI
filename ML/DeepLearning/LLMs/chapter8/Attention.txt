@@ -1,0 +1,15 @@
+Attention:
+Attention refers to which word should i focus on?
+
+Ex:
+Attention says: pizza, not beacuse or i 
+so the model,
+>> Connects related words
+>> Understands meaning better
+
+Think of attention like highlighting text while reading:
+
+>> Important words → bright highlight
+>> Less important → dim highlight
+
+The model does this numerically.

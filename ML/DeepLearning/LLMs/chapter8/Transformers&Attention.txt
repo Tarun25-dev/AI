@@ -1,0 +1,28 @@
+Understand why LLMs are so good compared to old AI models:
+>> The problem old models(RNNs, LSTMs) had
+   >> Read text word by word
+   >> Forgot earlier words
+   >> slow 
+   >> bad with long sentences
+
+Example:
+>> The book that I bought yesterday from the store was expensive.
+   >> Old models forget “book” by the time they reach “expensive”
+
+These drawbacks are fulfilled by the Transformers and Attention concepts.
+
+Why Transformers + Attention = LLMs:
+Together they give,
+>> Context understanding 
+>> Long memory
+>> Parallel processing
+>> Human like responses
+
+This combo is why:
+
+> ChatGPT exists
+> Code generation works
+> Translation is accurate
+
+Overview:
+Transformers use attention to understand relationships between words, making LLMs fast, scalable, and context-aware.
