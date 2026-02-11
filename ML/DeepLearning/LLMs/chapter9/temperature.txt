@@ -1,0 +1,49 @@
+Temperature : 
+>> Temperature is a parameter that controls how random or creative an LLMs output will be.
+
+Temperature Control:
+>> Temperature controls the randomness in token selection during text generation.
+>> Low temperature - More predictable and focussed answers.
+>> High temperature - More creative and random answers.
+
+Think of it like creative level:
+low temperature (0 - 0.3):
+
+>> More predictable
+>> More focused
+>> Less creative
+>> Safer answers
+
+>> Usually same answer every time.
+
+Medium temperature (0.5 - 0.7):
+
+>> Balanced
+>> Slight variation
+>> Good for general chat
+
+High temperature (0.8 - 1+):
+
+>> Very creative
+>> More random
+>> Sometimes weird
+>> Higher chance of hallucination
+
+Why temperature matters?
+if building:
+>> Customer support bot - Use LOW temperature (accurate, safe)
+>> Story generator - Use HIGH temperature (creative)
+>> Coding assistent - Low to medium (precise but flexible)
+
+How to reduce hallucination?
+
+You can control it by:
+
+>> Asking specific prompts
+>> Giving context
+>> Asking model to say "i dont know" if unsure.
+>> using lower temperature
+>> Connecting to real databases (like RAG(Retrieval-Augmented Generation))
+
+Overview:
+>> Hallucination happens because LLMs predict likely text, not verified truth, and temperature controls how random or creative their responses are.
