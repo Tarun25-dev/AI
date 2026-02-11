@@ -1,0 +1,17 @@
+What is Hallucination?
+>> When an LLM model confidently gives a wrong answers or mode-up answers.
+Ex: 
+You ask: Who won the Nobel Prize in AI in 2025?
+reply  : Dr. XYZ won it in 2025.
+>> If no such prize exists, the model might still generate.
+>> It sounds confident but its fake.
+
+Why does this happen?
+>> Beacuse, LLM predicts the next token -- they dont verify truth.
+>> They, dont access live databases unless connect
+>> Dont know facts
+>> Just generate the most probable text.
+
+Important: LLMs are:
+>> Pattern machines 
+>> Not fact checking engines
