@@ -1,3 +1,5 @@
+![aiImage](ai.png)
+
 # 🤖 AI & ML Learning Journey
 
 This repository documents my learning journey in **Artificial Intelligence (AI)**, **Deep Learning**, and **Large Language Models (LLMs)**.
